@@ -18,7 +18,6 @@ Markdown to JSON converter for jsdoc-to-markdown output
 
 | Program | Function | Optional | Download |
 | :---: | :--- | :---: | :---: |
-| npm | Node package manager. | :x: | [:floppy_disk:](https://www.npmjs.com/) |
 | jsdoc2md | JSDoc annotation to markdown | :x: | [:floppy_disk:](https://github.com/jsdoc2md/jsdoc-to-markdown) |
 
 ## Installation
